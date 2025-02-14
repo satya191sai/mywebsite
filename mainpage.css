@@ -1,0 +1,21 @@
+a{
+    color:white;
+    border-radius: none;  
+    background: linear-gradient(40deg,red,gold);
+    justify-content:end;
+    margin: 40px;
+    font-style: italic;
+}
+body{
+    background: url(code-1076536_1280.jpg);
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 70px;
+}
+ 
